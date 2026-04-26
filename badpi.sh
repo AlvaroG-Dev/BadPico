@@ -23,7 +23,7 @@ check_deps() {
 header() {
     clear
     echo -e "${BL}##################################################${NC}"
-    echo -e "${BL}#${NC} ${GN}PicoGen v3.5 - Custom Config & Multi-OS${NC}       ${BL}#${NC}"
+    echo -e "${BL}#${NC} ${GN}BadPico v3.5 - Custom Config & Multi-OS${NC}       ${BL}#${NC}"
     echo -e "${BL}##################################################${NC}"
 }
 
